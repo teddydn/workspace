@@ -1973,3 +1973,112 @@
 2018-05-08 15:28:20,085 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-05-08 15:28:20,086 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-05-08 15:28:20,087 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git\rz-mail-manager\rz.mail.manager\src\test\resources
+2018-05-09 11:19:19,082 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-09 11:19:24,915 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:rz.clean.inbox:0.0.1-SNAPSHOT @ D:\git\rz-clean-inbox\rz.clean.inbox\pom.xml.
+2018-05-09 11:19:25,022 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:json:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:25,086 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for newrelic.metrics:newrelic-metrics:jar:1.2.2 is missing, no dependency information available
+2018-05-09 11:19:25,115 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:notes:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:25,247 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:rz.fwk.configreader:0.0.2 @ D:\git\rz-configreader\rz.configreader\pom.xml.
+2018-05-09 11:19:25,522 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: scsb.rz:scsb.rz.dvt:0.0.7 @ D:\git\rz-dvt\rz.dvt\pom.xml.
+2018-05-09 11:19:26,439 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:dvt.manager:0.0.6 @ D:\git\rz-dvt-manager\rz.dvt.manager\pom.xml.
+2018-05-09 11:19:26,529 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:rz.fwk:0.0.2 @ D:\git\rz-fwk\rz.fwk\pom.xml.
+2018-05-09 11:19:26,596 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:rz.fwk.http:0.0.4 @ D:\git\rz-http\rz.http\pom.xml.
+2018-05-09 11:19:26,636 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:scsb.rz.login:0.0.2 @ D:\git\rz-login\rz.login\pom.xml.
+2018-05-09 11:19:26,951 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:rz.mail:2.0.3 @ D:\git\rz-mail\rz.mail\pom.xml.
+2018-05-09 11:19:27,074 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:rz.mgr:2.0.1 @ D:\git\rz-mail-manager\rz.mail.manager\pom.xml.
+2018-05-09 11:19:27,145 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:rz.traveler.probe:1.0.2 @ D:\git\rz-traveler\rz.traveler\pom.xml.
+2018-05-09 11:19:27,168 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:traveler:jar:0.0.2 is missing, no dependency information available
+2018-05-09 11:19:27,171 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:syncml4j:jar:0.0.1 is missing, no dependency information available
+2018-05-09 11:19:27,174 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:syncml4jds:jar:0.0.1 is missing, no dependency information available
+2018-05-09 11:19:27,187 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:weatools:jar:0.0.1 is missing, no dependency information available
+2018-05-09 11:19:27,201 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org-jsoup:jsoup:jar:1.7.1 is missing, no dependency information available
+2018-05-09 11:19:27,437 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:rz.traveler.fwk:0.0.2 @ D:\git\rz-traveler-fwk\rz.traveler.fwk\pom.xml.
+2018-05-09 11:19:27,582 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:rz.verse:1.0.1 @ D:\git\rz-verse\rz.verse\pom.xml.
+2018-05-09 11:19:28,702 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for newrelic.metrics:newrelic-metrics:jar:1.2.2 is missing, no dependency information available
+2018-05-09 11:19:28,707 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:json:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:28,908 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:28,912 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-05-09 11:19:28,920 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:28,920 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git\rz-fwk\rz.fwk\src\test\resources
+2018-05-09 11:19:28,956 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for newrelic.metrics:newrelic-metrics:jar:1.2.2 is missing, no dependency information available
+2018-05-09 11:19:28,992 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:json:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:29,006 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:29,007 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-05-09 11:19:29,019 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:29,019 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git\rz-dvt-manager\rz.dvt.manager\src\test\resources
+2018-05-09 11:19:29,048 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:json:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:29,055 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:29,056 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-05-09 11:19:29,058 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:29,058 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git\rz-http\rz.http\src\test\resources
+2018-05-09 11:19:29,104 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:json:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:29,548 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:notes:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:29,550 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for newrelic.metrics:newrelic-metrics:jar:1.2.2 is missing, no dependency information available
+2018-05-09 11:19:29,708 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:29,708 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-05-09 11:19:29,710 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:29,710 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git\rz-dvt\rz.dvt\src\test\resources
+2018-05-09 11:19:29,764 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:json:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:29,790 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:notes:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:29,799 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for newrelic.metrics:newrelic-metrics:jar:1.2.2 is missing, no dependency information available
+2018-05-09 11:19:29,814 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:29,815 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2018-05-09 11:19:29,830 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:29,830 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git\rz-configreader\rz.configreader\src\test\resources
+2018-05-09 11:19:29,872 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:json:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:29,899 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for newrelic.metrics:newrelic-metrics:jar:1.2.2 is missing, no dependency information available
+2018-05-09 11:19:29,913 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:notes:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:29,942 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:29,943 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-05-09 11:19:29,945 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:29,945 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git\rz-clean-inbox\rz.clean.inbox\src\test\resources
+2018-05-09 11:19:29,966 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for newrelic.metrics:newrelic-metrics:jar:1.2.2 is missing, no dependency information available
+2018-05-09 11:19:30,002 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:json:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:30,186 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:notes:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:30,227 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:30,228 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2018-05-09 11:19:30,234 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:30,234 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git\rz-login\rz.login\src\test\resources
+2018-05-09 11:19:30,260 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for newrelic.metrics:newrelic-metrics:jar:1.2.2 is missing, no dependency information available
+2018-05-09 11:19:30,294 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:json:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:30,406 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:notes:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:30,439 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:30,440 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-05-09 11:19:30,452 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:30,452 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git\rz-mail\rz.mail\src\test\resources
+2018-05-09 11:19:30,498 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for newrelic.metrics:newrelic-metrics:jar:1.2.2 is missing, no dependency information available
+2018-05-09 11:19:30,501 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:json:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:30,515 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:30,516 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-05-09 11:19:30,520 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:30,521 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git\rz-mail-manager\rz.mail.manager\src\test\resources
+2018-05-09 11:19:30,544 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.snmp4j:snmp4j:jar:2.1.0 is missing, no dependency information available
+2018-05-09 11:19:30,579 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:traveler:jar:0.0.2 is missing, no dependency information available
+2018-05-09 11:19:30,582 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:syncml4j:jar:0.0.1 is missing, no dependency information available
+2018-05-09 11:19:30,584 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:syncml4jds:jar:0.0.1 is missing, no dependency information available
+2018-05-09 11:19:30,594 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:weatools:jar:0.0.1 is missing, no dependency information available
+2018-05-09 11:19:30,613 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:json:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:30,621 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:notes:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:30,658 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:30,658 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-09 11:19:30,660 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:30,660 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git\rz-traveler-fwk\rz.traveler.fwk\src\test\resources
+2018-05-09 11:19:30,671 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for newrelic.metrics:newrelic-metrics:jar:1.2.2 is missing, no dependency information available
+2018-05-09 11:19:30,696 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.snmp4j:snmp4j:jar:2.1.0 is missing, no dependency information available
+2018-05-09 11:19:30,709 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:traveler:jar:0.0.2 is missing, no dependency information available
+2018-05-09 11:19:30,710 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:syncml4j:jar:0.0.1 is missing, no dependency information available
+2018-05-09 11:19:30,712 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:syncml4jds:jar:0.0.1 is missing, no dependency information available
+2018-05-09 11:19:30,720 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:weatools:jar:0.0.1 is missing, no dependency information available
+2018-05-09 11:19:30,762 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:json:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:30,771 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:notes:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:30,799 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org-jsoup:jsoup:jar:1.7.1 is missing, no dependency information available
+2018-05-09 11:19:30,822 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:30,823 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-05-09 11:19:30,834 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:30,835 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git\rz-traveler\rz.traveler\src\test\resources
+2018-05-09 11:19:30,883 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ibm:json:jar:1.0 is missing, no dependency information available
+2018-05-09 11:19:30,889 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for newrelic.metrics:newrelic-metrics:jar:1.2.2 is missing, no dependency information available
+2018-05-09 11:19:30,902 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:30,902 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-05-09 11:19:30,905 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-09 11:19:30,905 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git\rz-verse\rz.verse\src\test\resources
